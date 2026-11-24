@@ -155,6 +155,7 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 ## Output
 
+![Uploading Screenshot (19).png…]()
 
 
 ## Viva-Voce Questions
